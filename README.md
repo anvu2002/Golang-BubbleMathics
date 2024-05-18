@@ -1,2 +1,2 @@
 # BubbleMathics
-HawHacks2024
+HawHack2024
